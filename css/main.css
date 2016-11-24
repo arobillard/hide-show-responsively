@@ -53,7 +53,7 @@ img:nth-child(even) {
   }
 
   img:first-child {
-
+    display: none;
   }
 
 }
